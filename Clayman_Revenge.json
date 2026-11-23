@@ -4,5 +4,13 @@
   "artist": "Wataru Kajika",
   "author": "Fuse",
   "cover": "https://mangadex.org/title/61d81be6-2759-4cc4-9815-7952a3449149/tensei-shitara-slime-datta-ken-clayman-revenge",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "",
+      "last_updated": "1795419295",
+      "groups": {
+        "✪Manas✪": "/proxy/api/imgchest/chapter/5xy2walp3yl"
+      }
+    }
+  }
 }
