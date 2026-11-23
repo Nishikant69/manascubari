@@ -26,11 +26,11 @@
         "❂Manas❂": "/proxy/api/imgchest/chapter/md7o6wjx97p"
       }
     },
-    "6": {
+    "4": {
       "title": "",
-      "last_updated": "1795420292",
+      "last_updated": "1795420298",
       "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/qe4gojrxbyj"
+        "❂Manas❂": "/proxy/api/imgchest/chapter/qb4zaekjvyj"
       }
     },
     "5": {
@@ -40,11 +40,39 @@
         "❂Manas❂": "/proxy/api/imgchest/chapter/xny8bvlodyb"
       }
     },
-    "4": {
+    "6": {
       "title": "",
-      "last_updated": "1795420298",
+      "last_updated": "1795420292",
       "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/qb4zaekjvyj"
+        "❂Manas❂": "/proxy/api/imgchest/chapter/qe4gojrxbyj"
+      }
+    },
+    "7": {
+      "title": "",
+      "last_updated": "1795432416",
+      "groups": {
+        "❂Manas❂": "/proxy/api/imgchest/chapter/n87wwdglb7x"
+      }
+    },
+    "8": {
+      "title": "",
+      "last_updated": "1795432414",
+      "groups": {
+        "❂Manas❂": "/proxy/api/imgchest/chapter/pg73zgwr34r"
+      }
+    },
+    "9": {
+      "title": "",
+      "last_updated": "1795432439",
+      "groups": {
+        "❂Manas❂": "/proxy/api/imgchest/chapter/lqye926ak4d"
+      }
+    },
+    "10": {
+      "title": "",
+      "last_updated": "1795432413",
+      "groups": {
+        "❂Manas❂": "/proxy/api/imgchest/chapter/ej7mgwk9j7d"
       }
     },
     "11": {
@@ -61,18 +89,18 @@
         "❂Manas❂": "/proxy/api/imgchest/chapter/ej7mgw23j7d"
       }
     },
-    "14": {
-      "title": "",
-      "last_updated": "1795432332",
-      "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/5xy2wa3d8yl"
-      }
-    },
     "13": {
       "title": "",
       "last_updated": "1795432332",
       "groups": {
         "❂Manas❂": "/proxy/api/imgchest/chapter/wl7legr9o4x"
+      }
+    },
+    "14": {
+      "title": "",
+      "last_updated": "1795432332",
+      "groups": {
+        "❂Manas❂": "/proxy/api/imgchest/chapter/5xy2wa3d8yl"
       }
     },
     "15": {
@@ -87,34 +115,6 @@
       "last_updated": "1795432413",
       "groups": {
         "❂Manas❂": "/proxy/api/imgchest/chapter/6eyrp98v64p"
-      }
-    },
-    "10": {
-      "title": "",
-      "last_updated": "1795432413",
-      "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/ej7mgwk9j7d"
-      }
-    },
-    "8": {
-      "title": "",
-      "last_updated": "1795432414",
-      "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/pg73zgwr34r"
-      }
-    },
-    "7": {
-      "title": "",
-      "last_updated": "1795432416",
-      "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/n87wwdglb7x"
-      }
-    },
-    "9": {
-      "title": "",
-      "last_updated": "1795432439",
-      "groups": {
-        "❂Manas❂": "/proxy/api/imgchest/chapter/lqye926ak4d"
       }
     }
   }
